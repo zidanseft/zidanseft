@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Zidan Seftino Mutaqin**.<br>
+Nama saya **Zidan Seftino Mutaqin**.<br>
 
 Saya seorang **Mahasiswa** di [Universitas Bani Saleh](https://ubs.ac.id/).<br>
 
