@@ -1,10 +1,10 @@
-# Halo semua! 
+# Hallo! 
 
-Nama saya **Zidan Seftino Mutaqin**.<br>
+My name is **Zidan Seftino Mutaqin**.<br>
 
-Saya seorang **Mahasiswa** di [Universitas Bani Saleh](https://ubs.ac.id/).<br>
+I'm currently a student at [Universitas Bani Saleh](https://ubs.ac.id/).<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/zidaansm/)ku ya.
+If you'd like to connect or get to know me better, feel free to follow me on [Instagram](https://www.instagram.com/zidaansm/).
 
 <p align="left">
 <a href="https://github.com/dimasmds">
