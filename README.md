@@ -8,7 +8,7 @@ If you'd like to connect or get to know me better, feel free to follow me on [In
 
 <p align="left">
 <a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zidanseft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zidanseft&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zidanseft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zidanseft&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
