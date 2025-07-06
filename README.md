@@ -1,4 +1,4 @@
-# Hallo!!! Welcome to My GitHub
+# Welcome to my GitHub! Glad to have you here 😄
 
 My name is **Zidan Seftino Mutaqin**.<br>
 
